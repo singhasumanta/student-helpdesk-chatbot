@@ -1,0 +1,8 @@
+Flask
+flask-cors
+scikit-learn
+numpy
+pandas
+sentence-transformers  # if using embeddings
+faiss-cpu              # if using embeddings
+groq                   # if using Groq fallback

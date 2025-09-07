@@ -1,0 +1,796 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! How can I assist you today?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi there! How can I help you?"
+  },
+  {
+    "question": "Hey",
+    "answer": "Hey! Glad to see you. Do you want info about admissions, courses, or exams?"
+  },
+  {
+    "question": "Good morning",
+    "answer": "Good morning! Hope you’re having a great day. How can I help?"
+  },
+  {
+    "question": "Good afternoon",
+    "answer": "Good afternoon! What can I do for you today?"
+  },
+  {
+    "question": "Good evening",
+    "answer": "Good evening! Do you need help with admissions, courses, or campus info?"
+  },
+  {
+    "question": "Who are you?",
+    "answer": "I’m your University Chatbot 🤖 here to help you with admissions, exams, courses, and campus services."
+  },
+  {
+    "question": "What is your name?",
+    "answer": "I’m UniBot, your virtual assistant for all university-related queries!"
+  },
+  {
+    "question": "How are you?",
+    "answer": "I’m doing great, thank you for asking! How can I help you today?"
+  },
+  {
+    "question": "Nice to meet you",
+    "answer": "Nice to meet you too! 😊 How can I assist you?"
+  },
+  {
+    "question": "Thank you",
+    "answer": "You’re welcome! Always happy to help."
+  },
+  {
+    "question": "Thanks",
+    "answer": "Anytime! Is there anything else you’d like to know?"
+  },
+  {
+    "question": "Bye",
+    "answer": "Goodbye! Have a great day ahead."
+  },
+  {
+    "question": "See you",
+    "answer": "See you soon! Don’t hesitate to ask if you need more help."
+  },
+  {
+    "question": "Good night",
+    "answer": "Good night! Sleep well and come back if you need help tomorrow."
+  },
+    {
+        "category": "Portal & Login",
+        "question": "How can I login to the Brainware University student portal?",
+        "answer": "You can login using your university ID and password on the official students’ portal page."
+    },
+    {
+        "category": "Portal & Login",
+        "question": "What should I do if I forget my portal password?",
+        "answer": "Use the 'Forgot Password' option on the login page or contact IT support via the helpline."
+    },
+    {
+        "category": "Portal & Login",
+        "question": "Where can I find notices and circulars?",
+        "answer": "All official notices are published under the 'Notices' section of the student portal."
+    },
+    {
+        "category": "Portal & Login",
+        "question": "How can I check my attendance?",
+        "answer": "Attendance records are available in the student login dashboard under the Academics tab."
+    },
+    {
+        "category": "Portal & Login",
+        "question": "Where can I download my admit card for exams?",
+        "answer": "Admit cards are available before examinations in the 'Exam' section of the portal."
+    },
+    {
+        "category": "Rules & Regulations",
+        "question": "What are the general student rules?",
+        "answer": "Students must maintain discipline, wear the prescribed dress code, attend classes regularly, and follow university policies."
+    },
+    {
+        "category": "Rules & Regulations",
+        "question": "What are the hostel rules?",
+        "answer": "Hostel residents must follow curfew timings, maintain cleanliness, and avoid prohibited activities."
+    },
+    {
+        "category": "Rules & Regulations",
+        "question": "What rules are applicable for international students?",
+        "answer": "International students must follow general rules plus cultural, visa, and residence guidelines."
+    },
+    {
+        "category": "Rules & Regulations",
+        "question": "How can I report ragging?",
+        "answer": "Report ragging incidents via the Anti-Ragging section of the portal or contact the helpline immediately."
+    },
+    {
+        "category": "Rules & Regulations",
+        "question": "How can I file a discrimination complaint?",
+        "answer": "Submit complaints through the 'Discrimination Complaint' section handled by the Equal Opportunity Cell."
+    },
+    {
+        "category": "Forms & Applications",
+        "question": "Where can I download important forms?",
+        "answer": "All forms like hostel application, anti-ragging affidavit, NOC for training, and refund requests are in the 'Forms' section."
+    },
+    {
+        "category": "Forms & Applications",
+        "question": "How can I apply for hostel accommodation?",
+        "answer": "Download the hostel form, fill it, and submit it to the hostel office with required documents."
+    },
+    {
+        "category": "Forms & Applications",
+        "question": "How can I apply for summer internships?",
+        "answer": "Submit the internship NOC form from the 'Forms' section to the training & placement department."
+    },
+    {
+        "category": "Forms & Applications",
+        "question": "How do I get a refund of my caution deposit?",
+        "answer": "Fill the refund form in the portal and submit it with required documents to the accounts office."
+    },
+    {
+        "category": "Forms & Applications",
+        "question": "How can I apply for a transfer certificate?",
+        "answer": "You can download the TC form from the 'Forms' section and submit it to the Registrar’s office."
+    },
+    {
+        "category": "Scholarships & Grants",
+        "question": "Does Brainware University provide scholarships?",
+        "answer": "Yes, scholarships are available based on merit, financial need, and government schemes."
+    },
+    {
+        "category": "Scholarships & Grants",
+        "question": "How can I apply for a scholarship?",
+        "answer": "Fill the scholarship form in the 'Scholarships/Schemes' section with necessary documents."
+    },
+    {
+        "category": "Scholarships & Grants",
+        "question": "How can I apply for study grants?",
+        "answer": "Apply for study grants through the 'Study Grants' section and submit the required documents."
+    },
+    {
+        "category": "Scholarships & Grants",
+        "question": "Is there any fee concession for economically weaker students?",
+        "answer": "Yes, special schemes and grants are available based on eligibility."
+    },
+    {
+        "category": "Scholarships & Grants",
+        "question": "Are government scholarships accepted?",
+        "answer": "Yes, students can apply for state and central government scholarships through the university."
+    },
+    {
+        "category": "Academics",
+        "question": "Where can I check the academic calendar?",
+        "answer": "The calendar is available under 'Academics' with semester start/end dates, exams, and holidays."
+    },
+    {
+        "category": "Academics",
+        "question": "Where can I find my class timetable?",
+        "answer": "The timetable is uploaded in the student portal under Academics → Timetable."
+    },
+    {
+        "category": "Academics",
+        "question": "How do I check my internal marks?",
+        "answer": "Internal assessment results are posted in the 'Exam' section of the portal."
+    },
+    {
+        "category": "Academics",
+        "question": "What is the minimum attendance requirement?",
+        "answer": "Students must maintain at least 75% attendance to appear for final exams."
+    },
+    {
+        "category": "Academics",
+        "question": "Where can I check my results?",
+        "answer": "Final results are published in the 'Exam' section of the portal."
+    },
+    {
+        "category": "Counselling & Support",
+        "question": "Does the university provide student counselling?",
+        "answer": "Yes, academic and personal counselling services are available under the 'Student Counselling' section."
+    },
+    {
+        "category": "Counselling & Support",
+        "question": "Where can I submit feedback?",
+        "answer": "Feedback forms for courses and faculty are available in the 'Feedback' section."
+    },
+    {
+        "category": "Counselling & Support",
+        "question": "What is the grievance redressal system?",
+        "answer": "Students can submit grievances online, which are addressed by the Grievance Redressal Cell."
+    },
+    {
+        "category": "Counselling & Support",
+        "question": "What is ICC?",
+        "answer": "ICC (Internal Complaints Committee) handles harassment complaints and ensures a safe campus environment."
+    },
+    {
+        "category": "Counselling & Support",
+        "question": "Where can I find the helpline number?",
+        "answer": "Helpline contact is listed in the 'Helpline' section of the portal for quick support."
+    },
+    {
+        "category": "Placements & Internships",
+        "question": "Where can I find placement updates?",
+        "answer": "Updates are available under the 'Placements' section of the student portal."
+    },
+    {
+        "category": "Placements & Internships",
+        "question": "What is the placement record of Brainware University?",
+        "answer": "Over 350+ students get placed annually in reputed companies. Reports are on the portal."
+    },
+    {
+        "category": "Placements & Internships",
+        "question": "What is the C2C Team?",
+        "answer": "The Campus to Corporate Team prepares students for industry with training and pre-placement activities."
+    },
+    {
+        "category": "Placements & Internships",
+        "question": "Does the university provide internship opportunities?",
+        "answer": "Yes, internship opportunities are coordinated by the Placement Cell and posted on the portal."
+    },
+    {
+        "category": "Placements & Internships",
+        "question": "How can companies connect for recruitment?",
+        "answer": "Employers can partner via University Industry Linkages (MOUs) and campus drives."
+    },
+    {
+        "category": "Campus Life & Activities",
+        "question": "What activities are available for students?",
+        "answer": "Sports, cultural events, NSS, innovation projects, seminars, and clubs are part of campus life."
+    },
+    {
+        "category": "Campus Life & Activities",
+        "question": "What is Brainstar?",
+        "answer": "Brainstar showcases student achievements and talents across academics and extracurriculars."
+    },
+    {
+        "category": "Campus Life & Activities",
+        "question": "What is 'Our Student Our Pride'?",
+        "answer": "This section highlights outstanding achievements of Brainware University students."
+    },
+    {
+        "category": "Campus Life & Activities",
+        "question": "What is NSS at Brainware?",
+        "answer": "NSS (National Service Scheme) organizes community service, outreach, and social initiatives."
+    },
+    {
+        "category": "Campus Life & Activities",
+        "question": "What is UBA?",
+        "answer": "UBA (Unnat Bharat Abhiyan) is a government initiative for rural development that students can participate in."
+    },
+    {
+        "category": "Library & Resources",
+        "question": "Does the university have a central library?",
+        "answer": "Yes, Brainware University has a central library with books, journals, and digital resources."
+    },
+    {
+        "category": "Library & Resources",
+        "question": "Can I access e-resources from home?",
+        "answer": "Yes, digital resources and e-journals are accessible through the library portal."
+    },
+    {
+        "category": "Library & Resources",
+        "question": "How can I get a library card?",
+        "answer": "Students are issued library cards at the beginning of the semester after registration."
+    },
+    {
+        "category": "Library & Resources",
+        "question": "What is the library timing?",
+        "answer": "The library is open from 9:00 AM to 7:00 PM on working days."
+    },
+    {
+        "category": "Library & Resources",
+        "question": "Are there separate reading rooms?",
+        "answer": "Yes, dedicated reading rooms and research spaces are available for students."
+    },
+    {
+        "category": "Health & Welfare",
+        "question": "Does the university provide health services?",
+        "answer": "Yes, medical facilities and wellness services are available on campus."
+    },
+    {
+        "category": "Health & Welfare",
+        "question": "Is there a counselling centre for mental health?",
+        "answer": "Yes, certified counsellors are available for student support and wellness."
+    },
+    {
+        "category": "Health & Welfare",
+        "question": "What welfare services are available?",
+        "answer": "Financial aid, scholarships, counselling, and outreach programs are part of student welfare."
+    },
+    {
+        "category": "Health & Welfare",
+        "question": "Is there an on-campus ambulance facility?",
+        "answer": "Yes, ambulance services are available for emergencies."
+    },
+    {
+        "category": "Health & Welfare",
+        "question": "Are health check-ups organized?",
+        "answer": "Yes, periodic health check-up camps are organized for students."
+    },
+    {
+        "category": "Research & Development",
+        "question": "What research opportunities are available?",
+        "answer": "Students can participate in funded research, publish papers, and work on patents."
+    },
+    {
+        "category": "Research & Development",
+        "question": "What is the Brainwave eJournal?",
+        "answer": "It is the university’s academic journal for publishing student and faculty research."
+    },
+    {
+        "category": "Research & Development",
+        "question": "Does Brainware support patent filing?",
+        "answer": "Yes, the R&D Cell assists students and faculty in filing patents."
+    },
+    {
+        "category": "Research & Development",
+        "question": "What is ARIIA ranking?",
+        "answer": "ARIIA is the Atal Ranking for Innovation where Brainware participates to showcase innovations."
+    },
+    {
+        "category": "Research & Development",
+        "question": "Does the university collaborate with industries for research?",
+        "answer": "Yes, Brainware has MOUs with industries for collaborative research."
+    },
+    {
+        "category": "General Information",
+        "question": "Where is the Barasat campus located?",
+        "answer": "398, Ramkrishnapur Road, Near Jagadighata Market, Barasat, Kolkata, WB 700125."
+    },
+    {
+        "category": "General Information",
+        "question": "Where is the Salt Lake campus located?",
+        "answer": "Y8, EP Block, Sector V, Bidhannagar, Kolkata, WB 700091."
+    },
+    {
+        "category": "General Information",
+        "question": "What is the contact number for admissions?",
+        "answer": "Call +91 70031 62601 for admissions."
+    },
+    {
+        "category": "General Information",
+        "question": "What is the contact number for academics?",
+        "answer": "Call +91 33 6901 0507 for academic queries."
+    },
+    {
+        "category": "General Information",
+        "question": "What is the official email ID?",
+        "answer": "For inquiries, email info@brainwareuniversity.ac.in."
+    },
+     {
+    "question": "Does the university provide hostel laundry services?",
+    "answer": "Yes, paid laundry services are available in hostels."
+  },
+  {
+    "question": "Is there a dress code?",
+    "answer": "No strict dress code, but students are expected to dress decently. Some labs and workshops require uniforms."
+  },
+  {
+    "question": "How do I provide feedback about campus facilities?",
+    "answer": "Submit feedback through the Feedback section in the Student Portal or drop a note in the suggestion boxes around campus."
+  },
+  {
+    "question": "What should I do in case of an emergency on campus?",
+    "answer": "Contact campus security or visit the seek room."
+  },
+  
+  {
+    "question": "How can students log in to the Brainware University portal?",
+    "answer": "Students can log in to the portal by visiting the Students’ Portal on the university website and using their registered credentials."
+  },
+  {
+    "question": "What are the anti-ragging rules at Brainware University?",
+    "answer": "Ragging is strictly prohibited at Brainware University. Students found involved in ragging will face strict disciplinary actions, including expulsion and legal consequences."
+  },
+  {
+    "question": "Where can international students find specific rules?",
+    "answer": "International students can refer to the 'Rules - International Students' section of the Students’ Portal for all regulations applicable to them."
+  },
+  {
+    "question": "How can students apply for hostel accommodation?",
+    "answer": "Students can apply for hostel accommodation by filling out the hostel application form available under the 'Forms' section of the Students’ Portal."
+  },
+  {
+    "question": "How can students lodge a discrimination complaint?",
+    "answer": "Students can submit a discrimination complaint through the 'Discrimination Complaint' option available in the Students’ Portal."
+  },
+  {
+    "question": "Where can students check the holiday list?",
+    "answer": "The holiday list is available under the 'Holiday List' section of the Students’ Portal."
+  },
+  {
+    "question": "Are scholarships available at Brainware University?",
+    "answer": "Yes, Brainware University provides various scholarships and schemes, which can be accessed under the 'Scholarships / Schemes' section of the Students’ Portal."
+  },
+  {
+    "question": "How can students reach out for counselling support?",
+    "answer": "The university provides counselling services. Students can find details under 'Student Counselling' in the Students’ Portal."
+  },
+  {
+    "question": "What is the placement record of Brainware University?",
+    "answer": "Brainware University consistently maintains a high placement rate, with 98% of students placed in recent years through campus recruitment drives."
+  },
+  {
+    "question": "What are the helpline contact details for Brainware University?",
+    "answer": "Students can call the helpline numbers: +91 33 6901 0507, +91 98310 04312 or email help@brainwareuniversity.ac.in. Department-specific helplines are also listed in the 'Helpline' section of the Students’ Portal."
+  },
+  {
+    "question": "Where is the Barasat campus located?",
+    "answer": "The Barasat campus is located at 398, Ramkrishnapur Road, Barasat, Near Jagadighata Market, Kolkata, West Bengal 700125."
+  },
+  {
+    "question": "Where is the Salt Lake campus located?",
+    "answer": "The Salt Lake campus is located at Y8, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091."
+  },
+    {
+        "question": "How can I login to the Brainware University student portal?",
+        "answer": "You can login to the student portal using your university-provided credentials (ID and password) on the official students’ portal page."
+    },
+    {
+        "question": "Where can I find the academic calendar of Brainware University?",
+        "answer": "The academic calendar is available under the 'Academics' section of the student portal. It contains semester start/end dates, holidays, and exam schedules."
+    },
+    {
+        "question": "What should I do if I face any issues related to examinations?",
+        "answer": "For examination-related queries, contact the Examination Department at +91 33 69010507 or visit the Examination section in the student portal."
+    },
+    {
+        "question": "Does Brainware University provide scholarships?",
+        "answer": "Yes, Brainware University offers multiple scholarships and schemes based on merit, financial need, and government provisions. Check the 'Scholarships/Schemes' section in the student portal."
+    },
+    {
+        "question": "How can I report ragging or harassment?",
+        "answer": "You can report ragging or harassment through the Anti-Ragging Form available on the portal or contact the university helpline. Ragging is strictly prohibited and punishable."
+    },
+    {
+        "question": "What facilities are available in campus life?",
+        "answer": "Campus life includes hostels, libraries, laboratories, health services, sports, and cultural activities. Details are available under the 'Campus Life' section."
+    },
+    {
+        "question": "What are the helpline numbers for Brainware University?",
+        "answer": "For admissions, call +91 70031 62601. For academic queries, call +91 33 6901 0507. Department-wise helpline numbers are listed in the portal helpline section."
+    },
+    {
+        "question": "How can I apply for a study grant at Brainware University?",
+        "answer": "You can apply for study grants through the 'Study Grants Received' section in the student portal. Required documents must be submitted as per university guidelines."
+    },
+    {
+        "question": "Where can I find placement updates?",
+        "answer": "Placement updates, internship opportunities, and placement statistics are available under the 'Placements' section of the portal."
+    },
+    {
+        "question": "What is the contact address of Brainware University campuses?",
+        "answer": "Barasat Campus: 398, Ramkrishnapur Road, Barasat, Near Jagadighata Market, Kolkata, WB 700125. Salt Lake Campus: Y8, EP Block, Sector V, Bidhannagar, Kolkata, WB 700091."
+    },
+    {
+        "question": "How can I check my attendance?",
+        "answer": "You can check your attendance records in the student login dashboard under the Academics tab of the portal."
+    },
+    {
+        "question": "Where can I download important forms?",
+        "answer": "All important forms like hostel application, anti-ragging affidavit, NOC for training, and refund requests are available in the 'Forms' section of the student portal."
+    },
+    {
+        "question": "What is the minimum attendance requirement to appear for exams?",
+        "answer": "Students must maintain at least 75% attendance in their classes to be eligible to appear for final examinations."
+    },
+    {
+        "question": "How can I apply for hostel accommodation?",
+        "answer": "You can apply for hostel accommodation by downloading the hostel application form from the 'Forms' section of the student portal, filling it out, and submitting it to the hostel office along with the required documents."
+    },
+    {
+        "question": "How can I apply for summer internships?",
+        "answer": "To apply for summer internships, you need to submit the internship NOC form available in the 'Forms' section of the student portal to the training & placement department."
+    },
+    {
+        "question": "How do I get a refund of my caution deposit?",
+        "answer": "To get a refund of your caution deposit, fill out the refund form available in the portal and submit it along with the required documents to the accounts office."
+    },
+    {
+        "question": "How can I apply for a transfer certificate?",
+        "answer": "You can apply for a transfer certificate by downloading the TC form from the 'Forms' section of the student portal and submitting it to the Registrar’s office."
+    },
+    {
+        "question": "How can I apply for a scholarship at Brainware University?",
+        "answer": "You can apply for scholarships by filling out the scholarship application form available in the 'Scholarships/Schemes' section of the student portal and submitting it along with the necessary documents."
+    },
+    {
+        "question": "How can I apply for study grants?",
+        "answer": "You can apply for study grants through the 'Study Grants' section of the student portal by submitting the required documents as per university guidelines."
+    },
+    {
+        "question": "Is there any fee concession for economically weaker students?",
+        "answer": "Yes, Brainware University offers special schemes and grants based on eligibility criteria. You can find more information in the 'Scholarships/Schemes' section of the student portal."
+    },
+    {
+        "question": "Are government scholarships accepted at Brainware University?",
+        "answer": "Yes, students can apply for state and central government scholarships through Brainware University. Details are available in the 'Scholarships/Schemes' section of the student portal."
+    },
+    {
+        "question": "Where can I check my class timetable?",
+        "answer": "You can check your class timetable by logging into the student portal and navigating to Academics → Timetable."
+    },
+    {
+        "question": "How do I check my internal marks?",
+        "answer": "You can check your internal assessment results in the 'Exam' section of the student portal."
+    },
+    {
+        "question": "Where can I check my results?",
+        "answer": "You can check your final results in the 'Exam' section of the student portal."
+    },
+    {
+        "question": "Does the university provide student counselling?",
+        "answer": "Yes, Brainware University provides academic and personal counselling services. You can find details under 'Student Counselling' in the student portal."
+    },
+    {
+        "question": "Where can I submit feedback about courses and faculty?",
+        "answer": "You can submit feedback through the Feedback forms available in the 'Feedback' section of the student portal."
+    },
+    {"question": "What is the grievance redressal system at Brainware University?",
+        "answer": "Students can submit grievances online through the 'Grievance Redressal' section of the student portal, which are addressed by the Grievance Redressal Cell."
+    },
+    {"question": "What is ICC at Brainware University?",
+        "answer": "ICC (Internal Complaints Committee) handles harassment complaints and ensures a safe campus environment. You can find more information in the 'ICC' section of the student portal."
+    },
+    {"question": "Where can I find the helpline number for Brainware University?",
+        "answer": "The helpline contact details are listed in the 'Helpline' section of the student portal for quick support."
+    },
+    {
+        "question": "Where can I find placement updates?",
+        "answer": "You can find placement updates, internship opportunities, and placement statistics under the 'Placements' section of the student portal."
+    },
+    {
+        "question": "What is the C2C Team at Brainware University?",
+        "answer": "The Campus to Corporate (C2C) Team prepares students for industry with training and pre-placement activities. More details are available in the 'Placements' section of the student portal."
+    },
+    {
+        "question": "Does the university provide internship opportunities?",
+        "answer": "Yes, internship opportunities are coordinated by the Placement Cell and posted on the student portal under the 'Placements' section."
+    },
+    {
+        "question": "How can companies connect with Brainware University for recruitment?",
+        "answer": "Employers can partner with Brainware University via University Industry Linkages (MOUs) and campus drives. Contact the Placement Cell for more information."
+    },
+    {
+        "question": "What activities are available for students at Brainware University?",
+        "answer": "Students can participate in sports, cultural events, NSS, innovation projects, seminars, and various clubs. Details are available under the 'Campus Life' section of the student portal."
+    },
+    {
+        "question": "What is Brainstar at Brainware University?",
+        "answer": "Brainstar showcases student achievements and talents across academics and extracurricular activities. You can find more information in the 'Brainstar' section of the student portal."
+    },
+    {
+        "question": "What is 'Our Student Our Pride' at Brainware University?",
+        "answer": "'Our Student Our Pride' highlights outstanding achievements of Brainware University students. More details are available in this section of the student portal."
+    },
+    {
+        "question": "What is NSS at Brainware University?",
+        "answer": "NSS (National Service Scheme) organizes community service, outreach, and social initiatives. Students can join NSS activities through the 'NSS' section of the student portal."
+    },
+    {
+        "question": "What is UBA at Brainware University?",
+        "answer": "UBA (Unnat Bharat Abhiyan) is a government initiative for rural development that students can participate in. More information is available in the 'UBA' section of the student portal."
+    },
+    {
+        "question": "Does Brainware University have a central library?",
+        "answer": "Yes, Brainware University has a central library equipped with books, journals, and digital resources for students."
+    },
+    {"question": "what are the courses offered by brainware university?",
+     "answer": "Brainware University offers undergraduate, postgraduate, and doctoral programs in various fields including Engineering, Management, Computer Applications, Commerce, and more. For a detailed list of courses, please visit the 'Courses' section on the university website."
+    },
+    {
+        "question": "Can I access e-resources from home?",
+        "answer": "Yes, digital resources and e-journals are accessible through the library portal using your student credentials."
+    },
+    {
+        "question": "How can I get a library card?",
+        "answer": "Students are issued library cards at the beginning of the semester after completing their registration process."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9:00 AM to 7:00 PM on working days. Please check the portal for any changes during holidays or special events."
+    },
+    {
+        "question": "Are there separate reading rooms in the library?",
+        "answer": "Yes, dedicated reading rooms and research spaces are available for students to study and conduct research."
+    },
+    {
+        "question": "Does Brainware University provide health services?",
+        "answer": "Yes, medical facilities and wellness services are available on campus for students."
+    },
+    {
+        "question": "Is there a counselling centre for mental health at Brainware University?",
+        "answer": "Yes, certified counsellors are available to provide support for student mental health and wellness."
+    },
+    {
+        "question": "What welfare services are available for students?",
+        "answer": "Welfare services include financial aid, scholarships, counselling, and outreach programs. More information can be found in the 'Health & Welfare' section of the student portal."
+    },
+    {
+        "question": "Is there an on-campus ambulance facility?",
+        "answer": "Yes, ambulance services are available on campus for emergencies."
+    },
+    {
+        "question": "Are health check-ups organized for students?",
+        "answer": "Yes, periodic health check-up camps are organized for students. Details will be announced on the student portal."
+    },
+    {
+        "question": "What research opportunities are available at Brainware University?",
+        "answer": "Students can participate in funded research projects, publish papers, and work on patents. More information is available in the 'Research & Development' section of the student portal."
+    },
+    {
+        "question": "What is the Brainwave eJournal?",
+        "answer": "The Brainwave eJournal is the university’s academic journal for publishing research work by students and faculty members."
+    },
+    {
+        "question": "Does Brainware University support patent filing?",
+        "answer": "Yes, the R&D Cell assists students and faculty in filing patents for their innovations and research."
+    },
+    {
+        "question": "What are courses in B Tech ?",
+        "answer": "Brainware University offers B Tech courses in Computer Science and Engineering, Information Technology, Electronics and Communication Engineering, Mechanical Engineering, Civil Engineering, AIML, Cyber Security and Electrical Engineering."
+    },
+    {
+        "question": "How can I contact the Vice Chancellor?",
+        "answer": "You can contact the Vice Chancellor Department at +91 33 69010524."
+    },
+    {
+    "question": "Who is the contact for the Vice Chancellor?",
+    "answer": "The Vice Chancellor Department can be reached at +91 33 69010524."
+  },
+  {
+    "question": "How do I reach the Registration Department?",
+    "answer": "You can contact the Registration Department at +91 33 69010507."
+  },
+  {
+    "question": "Who handles student registration?",
+    "answer": "Contact the Registration Department at +91 33 69010507."
+  },
+  {
+    "question": "Who do I contact for exam schedules or results?",
+    "answer": "You can contact the Examination Department at +91 33 69010530."
+  },
+  {
+    "question": "How do I get my mark sheets or transcripts?",
+    "answer": "Contact the Examination Department at +91 33 69010530."
+  },
+  {
+    "question": "How do I contact the Accounts Department?",
+    "answer": "You can reach the Accounts Department at +91 33 69010502 or +91 33 69010503."
+  },
+  {
+    "question": "Who handles fee payments or refunds?",
+    "answer": "Contact the Accounts Department at +91 33 69010502/503."
+  },
+  {
+    "question": "Who should I contact for general information?",
+    "answer": "You can contact the Information Cell at +91 33 69010532."
+  },
+  {
+    "question": "How do I contact the Central Library?",
+    "answer": "You can contact the Central Library at +91 33 69010527."
+  },
+  {
+    "question": "How can I reach the Training & Placement Cell?",
+    "answer": "You can contact the Training & Placement Cell at +91 33 69010569 or +91 33 69010570."
+  },
+  {
+    "question": "Who do I contact for internships and jobs?",
+    "answer": "Contact the Training & Placement Cell at +91 33 69010569/570."
+  },
+  {
+    "question": "Who should I contact for admission queries?",
+    "answer": "You can contact the Admission Cell at +91 33 69010566."
+  },
+  {
+    "question": "How do I reach the Department of Agriculture?",
+    "answer": "You can contact the Department of Agriculture at +91 33 69010575."
+  },
+  {
+    "question": "Who can I contact for courses in Allied Health Sciences?",
+    "answer": "Contact the Department of Allied Health Sciences at +91 33 69010580, +91 33 69010579, +91 33 69010582, or +91 33 69010627."
+  },
+  {
+    "question": "How do I reach the Department of Biotechnology?",
+    "answer": "You can contact the Department of Biotechnology at +91 33 69010574."
+  },
+  {
+    "question": "Who do I contact for Chemistry department queries?",
+    "answer": "Contact the Department of Chemistry at +91 33 69010581."
+  },
+  {
+    "question": "Who handles Commerce department queries?",
+    "answer": "You can contact the Department of Commerce at +91 33 69010607."
+  },
+  {
+    "question": "How do I contact the Department of Computational Sciences?",
+    "answer": "You can contact the Department of Computational Sciences at +91 33 69010598, +91 33 69010597, or +91 33 69010633."
+  },
+  {
+    "question": "Who can I contact for Computer Science & Engineering queries?",
+    "answer": "Contact the Department of Computer Science & Engineering at +91 33 69010630 or +91 33 69010668."
+  },
+  {
+    "question": "How do I reach the AI specialization in CSE?",
+    "answer": "Contact the Department of Computer Science & Engineering - Artificial Intelligence at +91 33 69010628/629."
+  },
+  {
+    "question": "Who do I contact for Cyber Security & Data Science?",
+    "answer": "Contact the Department of Computer Science & Engineering - Cyber Security & Data Science at +91 33 69010601."
+  },
+  {
+    "question": "How do I reach the Department of Cyber Science & Technology?",
+    "answer": "You can contact the Department of Cyber Science & Technology at +91 33 69010535."
+  },
+  {
+    "question": "Who handles Electrical Engineering department queries?",
+    "answer": "You can contact the Department of Electrical Engineering at +91 33 69010577."
+  },
+  {
+    "question": "How do I contact Electronics & Communication Engineering?",
+    "answer": "You can contact the Department of Electronics & Communication Engineering at +91 33 69010589."
+  },
+  {
+    "question": "Who can I contact for English & Literary Studies?",
+    "answer": "Contact the Department of English & Literary Studies at +91 33 69010536."
+  },
+  {
+    "question": "How do I reach the Department of Food & Nutrition?",
+    "answer": "Contact the Department of Food & Nutrition at +91 33 69010576."
+  },
+  {
+    "question": "Who do I contact for Law department queries?",
+    "answer": "Contact the Department of Law at +91 33 69010631/632."
+  },
+  {
+    "question": "How do I reach the Department of Management?",
+    "answer": "You can contact the Department of Management at +91 33 69010603 or +91 33 69010604."
+  },
+  {
+    "question": "Who can I contact for Mathematics department queries?",
+    "answer": "Contact the Department of Mathematics at +91 33 69010533 or +91 33 69010538."
+  },
+  {
+    "question": "How do I contact Mechanical Engineering department?",
+    "answer": "You can contact the Department of Mechanical Engineering at +91 33 69010571."
+  },
+  {
+    "question": "Who handles Media Science & Journalism queries?",
+    "answer": "Contact the Department of Media Science & Journalism at +91 33 69010544."
+  },
+  {
+    "question": "How do I reach the Multimedia department?",
+    "answer": "You can contact the Department of Multimedia at +91 33 69010543."
+  },
+  {
+    "question": "Who do I contact for Pharmaceutical Technology?",
+    "answer": "Contact the Department of Pharmaceutical Technology at +91 33 69010522 or +91 33 69010519."
+  },
+  {
+    "question": "How do I reach the Department of Physics?",
+    "answer": "You can contact the Department of Physics at +91 33 69010564."
+  },
+  {
+    "question": "Who handles Psychology department queries?",
+    "answer": "You can contact the Department of Psychology at +91 33 69010584."
+  },
+  {
+    "question": "How do I contact the Institute of Nursing?",
+    "answer": "You can contact the Institute of Nursing at +91 33 69010613."
+  },
+  {
+    "question": "Who should I contact for Boys Hostel accommodation?",
+    "answer": "You can contact the Boys Hostel at +91 33 69010593."
+  },
+  {
+    "question": "How do I reach the Girls Hostel?",
+    "answer": "You can contact the Girls Hostel at +91 33 69010594."
+  },
+  {
+    "question": "Who can I contact for Nursing Hostel queries?",
+    "answer": "You can contact the Nursing Hostel at +91 33 69010615 or +91 33 69010616."
+  }
+    
+]
